@@ -1,5 +1,5 @@
 body{font-family: 'Poppins', sans-serif;}
-.starting{
+.flexible-container{
           display: flex;
 }
 .colorful{
@@ -8,7 +8,7 @@ body{font-family: 'Poppins', sans-serif;}
 .text1{width: 50%;
     padding-left: 70px;
     padding-right: 70px;
-    font-size: 2em;
+    font-size: 18px;
 }   
  .head1{
      
@@ -25,5 +25,38 @@ body{font-family: 'Poppins', sans-serif;}
      padding: 10px 40px ;
      text-decoration: none;
  }
+ .part2{text-align:center ;
+     
+ }
+ .img-small{
+     width: 40%;
+ }
+ .sec2{
+     padding-top: 80px;
+     background-image: url(7.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ #sec1{
+     padding-bottom: 80px;
+ }
+.text1 h2{
+    font-size: 32px;
+    color: #575757;
 
+}
+.sec2 .text1{
+    padding: 0 45px;
+}
+.recep{
+    text-align: center;
+}
+.sec3{
+    padding-top: 50px;
 
+}
+.recep h2{
+    font-size: 32px;
+    color: #575757;
+
+}
