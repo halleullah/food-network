@@ -60,3 +60,18 @@ body{font-family: 'Poppins', sans-serif;}
     color: #575757;
 
 }
+.recepies-img{
+    width: 250px;
+}
+.recipe-box{border-radius: 20px;
+
+             margin-left: 40px;
+             margin-right: 40px;
+             padding: 40px;   
+             width: 30%;
+             box-shadow:10px 10px 40px grey ;
+              
+}
+.recipe-list{
+    padding: 70px;
+}
