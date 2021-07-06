@@ -1,0 +1,29 @@
+body{font-family: 'Poppins', sans-serif;}
+.starting{
+          display: flex;
+}
+.colorful{
+    color: #FB8E48;
+}
+.text1{width: 50%;
+    padding-left: 70px;
+    padding-right: 70px;
+    font-size: 2em;
+}   
+ .head1{
+     
+         font-size: 3em;
+         line-height: 1.2em;
+         color: #575757;
+         
+ }   
+ .link-button{
+     color: white;
+     background-image: linear-gradient(orange,rgb(231, 76, 76));
+     font-weight: 700;
+     border-radius: 10px;
+     padding: 10px 40px ;
+     text-decoration: none;
+ }
+
+
