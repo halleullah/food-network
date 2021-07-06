@@ -75,3 +75,33 @@ body{font-family: 'Poppins', sans-serif;}
 .recipe-list{
     padding: 70px;
 }
+.number-div{margin: 70px;
+           text-align: center;
+           width: 90%;
+           box-shadow:10px 10px 40px grey ;
+           border-radius: 20px;
+           padding: 45px 20px;
+
+}
+.number{
+    width: 30%;
+    text-align: center;
+    margin-left: 10px;
+             margin-right: 10px;
+    
+}
+    
+    
+    .finishing{color:#b1a8a8;
+            text-align: center;
+            background-color: rgb(15, 17, 31);
+            padding: 75px 0px;}
+
+    .number h3{
+              font-size: 40px;
+              font-weight: 900;
+    }        
+
+
+
+
